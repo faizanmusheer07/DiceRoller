@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerUsingKotlin</string>
+    <string name="Btn">DiceButton</string>
+    <string name="txt">1</string>
+</resources>
